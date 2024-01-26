@@ -1,9 +1,19 @@
 body{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7XSALMHwXPg1_xE3_Z9DatwYq7PdVj3PC9A&usqp=CAU");
     background-repeat: no-repeat;
 
+    padding-bottom: initial;
+    background-image: url("https://www.shutterstock.com/image-photo/creepy-zombie-hand-holding-smartphone-260nw-2316083053.jpg");
+    background-size: cover;
 
 
+
+}
+.mm{
+    text-align: center;
+    color: crimson;
+}
+.vv{
+    text-align: center;
 
 
 }

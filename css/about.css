@@ -1,11 +1,10 @@
 body{
-    background-color: black;
+
     color: white;
     font-size: large;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrrC67stnvGYLDdwiUlz_7FNVif6zdJCFJQ&usqp=CAU");
 
-
-
-
+    background-size: cover;
 
 
 }
